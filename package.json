@@ -1,0 +1,16 @@
+{
+  "name": "discordbotv2",
+  "version": "1.0.0",
+  "description": "JavaScript Version of 002Bot",
+  "main": "DiscordConnector.js",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Mark Brogan",
+  "license": "ISC"
+}
