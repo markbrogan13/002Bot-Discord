@@ -4,6 +4,7 @@
   "description": "JavaScript Version of 002Bot",
   "main": "DiscordConnector.js",
   "dependencies": {
+    "cron": "^1.8.2",
     "discord.js": "^12.4.1"
   },
   "devDependencies": {},
